@@ -1,14 +1,12 @@
 
-# Space Battles - Episode IV: A New Spark
+# The Knight's journey ⚔️
 
-## 🎬 Opening Crawl
+In a world of mythical creatures and man only one can succeed.
 
-### EPISODE IV: A NEW SPARK
+A lone hero has been tasked by The King👑 of an all powerful land to save his daughter and bring her home.
 
-It is a time of rebellion. Scattered freedom fighters wage a desperate war against a tyrannical Galactic Dominion that rules the stars with an iron grip.
+You, are tasked with helping our hero complete his mission. Will you help save the princess? Or will you let her succumb to the evil of the Dragon??? 🐉
 
-In a daring strike, the rebels have acquired secret plans to the Dominion’s ultimate weapon — a moon-sized battle station with the power to destroy entire planets.
+The choice is yours, decide now while you still can. 🛡️
 
-Pursued by Dominion warships, a lone diplomatic cruiser races home, carrying hope for the galaxy… and destiny for a farm boy on a forgotten desert world.
-
-- 🚀 [Begin your journey](./scene1.md)
+-  [Begin your journey](./scene1.md)
