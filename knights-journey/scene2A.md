@@ -1,14 +1,12 @@
 
-# 📡 Scene 2A: The Hidden Message
+# 🐎 Scene 2A: The Journey Begins
 
-You tinker with the droid and unlock the full message. A cloaked woman pleads for help from someone named *Old Ken Benobi*, who supposedly lives nearby in the canyons.
+You ride your horse toward the dragon's castle. After several hours, you reach a fork in the road.
 
-> "This must be the old hermit people whisper about," you think to yourself.
+🛡️ **Knight Edward:** "I must choose my path carefully."
 
-What now?
+What do you do?
 
-- 🏜️ [Sneak out to find the hermit yourself](./scene3A.md)
+- 🌲 [Take the forest path](./scene3A.md)
 
-- 🤝 [Wait for nightfall and ask a friend to come with you](./scene3B.md)
-
-- 🚔 [Report this to the local authorities](./scene3C.md)
+- ⛰️ [Take the mountain path](./scene3B.md)
