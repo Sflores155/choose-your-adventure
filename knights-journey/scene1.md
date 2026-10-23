@@ -1,18 +1,16 @@
 
-# 🌵 Scene 1: The Desert World
+# 🏰 Scene 1: The King's Orders
 
-You are a restless teen living on a dry, isolated planet, helping your aunt and uncle run a moisture farm. You've always dreamed of more — of flying, of fighting, of being something greater.
+You are Sir Edward, a brave knight serving King Richard. One morning, the king calls you into his throne room.
 
-Today, while cleaning a dusty old helper droid, you stumble on a hidden recording…
+👑 **King Richard:** "Sir Edward, I need your help! A dragon has captured Princess Amelia and taken her to its castle."
 
-> 💬 “Help me, wise traveler… you’re my only hope…”
+🛡️ **Knight Edward:** "I will save her, Your Majesty!
 
-What do you do?
+"👑 **King Richard:** "Be careful. The dragon is dangerous, and you must hurry before it is too late.
 
-- 🛠️ [Play the full message and try to find out who the woman is](./scene2A.md)
+"What do you do?
 
-- 🙈 [Ignore it — probably just a glitch](./scene2B.md)
+⚔️ [Accept the mission and leave immediately](./scene2A.md)
 
-- 🧓 [Tell your uncle — maybe he’ll know what to do](./scene2C.md)
-
-
+🗺️ [Ask the king for a map and more information](./scene2B.md)
