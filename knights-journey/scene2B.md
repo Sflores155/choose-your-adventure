@@ -1,10 +1,13 @@
 
-# 🤖 Scene 2B: Glitch? Or Something More?
+# 🗺️ Scene 2B: The King's Map
 
-You brush it off. Probably just a corrupted message from some old battle. Still, something about it lingers in your mind.
+The king gives you an old map showing the way to the dragon's castle.
 
-That night, you hear strange sounds outside. Lights in the sky. Maybe it wasn’t just a glitch…
+👑 **King Richard:** "The forest has a hidden path. The mountain road is longer, but easier to follow."
 
-- 🌠 [Investigate the lights in the sky](./scene3D.md)
+🛡️ **Knight Edward:** "Thank you, Your Majesty. I will find the princess.
+"What do you do?-
 
-- 🛏️ [Stay inside — no good comes from chasing trouble](./scene3E.md)
+🌲 [Take the hidden forest path](./scene3A.md)-
+
+⛰️ [Take the mountain road](./scene3B.md)
